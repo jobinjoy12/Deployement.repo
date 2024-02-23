@@ -4,7 +4,7 @@ import numpy as np
 from prediction import predict
 
 
-st.title('KKK aanu nee')
+st.title('Iris Flower Classification')
 <img src="https://2.bp.blogspot.com/-ejF-Plyv4_s/UcE2uceM4zI/AAAAAAAAANw/vx_iKjbZRb0/s1600/vlcsnap-2013-06-18-19h22m27s107.png" />
 st.markdown('Toy model to play to classify iris flowers into \
      (setosa, versicolor, virginica) based on their sepal/petal \
